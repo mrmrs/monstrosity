@@ -1,0 +1,12 @@
+{
+  "name": "monstrosity",
+  "scripts": {
+    "start": "x0 dev App.js --config x0.config.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@compositor/x0": "^4.0.2",
+    "@mdx-js/loader": "^0.7.3",
+    "@mdx-js/mdx": "^0.7.3"
+  }
+}
