@@ -1,5 +1,6 @@
 {
   "name": "monstrosity",
+  "version": "0.0.1",
   "scripts": {
     "start": "x0 dev App.js --config x0.config.js"
   },
